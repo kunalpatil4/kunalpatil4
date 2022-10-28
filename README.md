@@ -2,8 +2,7 @@
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Javascript and Nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @  patilkunal0999@gmail.com
--                        7038284454/9322600076
+- 📫 How to reach me @  patilkunal0999@gmail.com / 7038284454 /9322600076
 
 <!---
 kunalpatil4/kunalpatil4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
